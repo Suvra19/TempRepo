@@ -1,0 +1,16 @@
+{
+  "name": "optimalbi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Subhra",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "jsdoc": "^3.5.5",
+    "numeral": "^2.0.6"
+  }
+}
